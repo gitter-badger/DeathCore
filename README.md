@@ -1,5 +1,7 @@
 # ![logo](https://camo.githubusercontent.com/831d9a457a380e21ef52d682a578f5385058c8d8/687474703a2f2f692e696d6775722e636f6d2f556573316774432e706e67)
 
+[![Join the chat at https://gitter.im/NoffearrDeathProjecT/DeathCore](https://badges.gitter.im/NoffearrDeathProjecT/DeathCore.svg)](https://gitter.im/NoffearrDeathProjecT/DeathCore?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Introduction
 
 DeathCore Open Source Emulator™ is a team of programmers without professional profits that make games Framework MMORPG mainly based on C ++. It is completely free your projects. Are inspired by the designs of TrinityCore with open source, projects undergo major changes over time to optimize, improve and clean the base of the code at the same time improving the mechanics in the game and functionality.
