@@ -28,9 +28,9 @@
 #    CUSTOM SERVER OPTIONS
 #    LOGGING SYSTEM SETTINGS
 #    CURRENCIES SETTINGS
-#    SISTEMA FAKE PLAYERS
-#    SISTEMA V.I.P
-# 	 SISTEMA ANTI-HACKER
+#    SYSTEM FAKE PLAYERS
+#    SYSTEM V.I.P
+# 	 SYSTEM ANTI-HACKER
 #    CROSSFACTION BG
 #    DOUBLE XP WEEKEND
 #    CUSTOM CONTENT DEATHCORE SETTINGS
@@ -2786,14 +2786,6 @@ Appender.Console=1,3,0
 Appender.Server=2,2,0,Server.log,w
 Appender.GM=2,2,1,GM.log
 Appender.DBErrors=2,2,0,DBErrors.log
-Appender.Char=2,2,3,Char.log,w
-Appender.RA=2,2,3,RA.log
-Appender.Warden=2,4,3,Warden.log
-Appender.Chat=2,2,3,Chat.log
-Appender.CharDump=2,2,3,%s.log
-Appender.Arenas=2,2,3,Arena.log
-Appender.SQLDev=2,2,3,SQLDev.log
-Appender.SQLDriver=2,2,3,SQLDriver.log
 
 #    Appenders
 #        Description: List of Appenders to read from config
@@ -3148,7 +3140,7 @@ Cronjobs.Execute.Interval = 5
 ###########################################################
 
 ###################################################################################################
-######################################SISTEMA FAKE PLAYERS#########################################
+######################################SYSTEM FAKE PLAYERS##########################################
 ###################################################################################################
 #
 
@@ -3158,7 +3150,7 @@ FakePlayers.Enable = 1
 ###################################################################################################
 #
 ###################################################################################################
-######################################SISTEMA V.I.P################################################
+######################################SYSTEM V.I.P#################################################
 ###################################################################################################
 #
 
@@ -3173,7 +3165,7 @@ Vip.Rate.Gathering   = 2
 
 #
 ###################################################################################################
-######################################SISTEMA ANTI-HACKER##########################################
+######################################SYSTEM ANTI-HACKER###########################################
 ###################################################################################################
 #
 #     Anticheat.Enable
